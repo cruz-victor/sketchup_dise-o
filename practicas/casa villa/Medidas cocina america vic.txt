@@ -25,3 +25,11 @@ Jalador Gola J
 Jalador Gola C
 7.20 cm alto
 2.5 cm profundidad
+
+
+Observaciones
+1.La base del modulo deberia ser el 100% del ancho. Los laterales se apoyan en la base.
+2.Revisar el ancho de la cocina y extractor
+3.Hacer lista de accesorios metalicos.
+4.Hacer lista de accesorios electronicos.
+5.Preguntar si la cajonera alta tiene soportes para colgar.
