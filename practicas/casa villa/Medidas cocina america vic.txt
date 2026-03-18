@@ -1,0 +1,27 @@
+Ancho y alto de la cocina americana
+Area de la cocina
+Ancho 5.23 m
+Alto 2.33 m
+Profundidad 0.6 m
+
+Brazo	Meson	Cocina	Meson	Fregadero	Meson	Lavadora	Brazo
+0.5m	0.57m	0.8m	0.56m	0.8m		0.57m	0.90m		0.5m
+
+
+Area de la isla
+largo 2.40 m
+ancho 0.9 m
+
+420
+170/3
+
+87
+
+
+Jalador Gola J
+5.7 cm alto
+2.5 cm profundidad
+
+Jalador Gola C
+7.20 cm alto
+2.5 cm profundidad
