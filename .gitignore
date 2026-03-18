@@ -1,0 +1,54 @@
+# =========================
+# SketchUp
+# =========================
+
+# Autosave / recovery
+*.skb
+*.skp~
+*.tmp
+*.autosave
+
+# Archivos temporales generales
+*.temp
+*.bak
+*.old
+
+# Lock / cache
+*.lock
+*.lck
+
+# Exportaciones que normalmente no quieres versionar
+*.dae
+*.kmz
+*.3ds
+*.obj
+*.fbx
+*.stl
+*.wrl
+*.xsi
+*.ifc
+
+
+# Videos generados
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas comunes de caché o salida
+cache/
+temp/
+tmp/
+exports/
+render/
+renders/
+output/
+outputs/
