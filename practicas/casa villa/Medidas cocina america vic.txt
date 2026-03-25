@@ -15,8 +15,13 @@ ancho 0.9 m
 420
 170/3
 
-87
 
+
+Isla
+Ancho total 3m x 0.90m
+Ancho interno 289.20cm
+
+Altor interno 104.60cm
 
 Jalador Gola J
 5.7 cm alto
@@ -26,7 +31,8 @@ Jalador Gola C
 7.20 cm alto
 2.5 cm profundidad
 
-
+Zapatero
+96x52x46 
 Observaciones
 1.La base del modulo deberia ser el 100% del ancho. Los laterales se apoyan en la base.
 2.Revisar el ancho de la cocina y extractor
@@ -47,3 +53,8 @@ Observaciones
 17.Como podria reforzar cada cajon (zocala de agarre, etc)
 18.Cual es el grosor de zocalo de agarre? (7cm o 10cm)
 19.Como reforzar las Torrez para que no se muevan?
+20.Cual es tamaño minimo y maximo de una cajonera para que sea util?
+21.Cocina America, el meson es de granito o melamina?
+22.Cual es el grosor minimo y maximo del granito/cuarzo?
+23.Como se arma un diseño de granito/cuarzo en grosor de 5cm?
+24.Para un modulo de melamina  (base, laterales y tapa superior) aun es necesario zocalos de sujecion?
