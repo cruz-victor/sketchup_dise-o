@@ -1,0 +1,16 @@
+Melamina blanco arena 15mm
+	4 hojas sobra 0
+	diagrama de corte rectangulo
+Melamina roble 15 mm
+	2 hojas sobra casi nada
+	diagrama de corte rectangulo
+Melamina Quarzo 18mm
+	1 hoja sobra 744x376 aprox 
+	diagrama de corte rectangulo
+
+Fondo blanco arena
+Fondo roble
+Fondo Quarzo
+
+
+el Quarzo del lavamanos sera simple, revisar tamanos
