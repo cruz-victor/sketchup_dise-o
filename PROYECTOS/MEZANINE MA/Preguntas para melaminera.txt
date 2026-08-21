@@ -1,0 +1,22 @@
+1. Tamaño de la la melamina Quarzo bege 18mm?
+2. Tamaño del tapacanto quarzo bege?
+3. Precio de la melamina Quarzo bege 18mm?
+
+4. Tamaño de la la melamina Trama Titanio 15mm?
+5. Tamaño del tapacanto trama titanio?
+6. Precio de la melamina Trama Titanio 15mm?
+
+4. Tamaño de la la melamina Roble Categral 15mm?
+5. Precio de la melamina Roble Catedral 15mm?
+5. Espesor del tapacanto Roble Catedral?
+6. Precio del tapacanto Roble Catedral?
+
+7. Grosor de la sierra, minimo y maximo (Sierra)? 
+8. Margen de la melamina, minimo y maximo (Reborde)?
+
+10. La cortadora de melamina que usan es automatica o manual?
+9. Tipos de corte que soportan en el diagrama de corte? (Guillotina, Rectangulo, Solapado)
+
+
+
+
