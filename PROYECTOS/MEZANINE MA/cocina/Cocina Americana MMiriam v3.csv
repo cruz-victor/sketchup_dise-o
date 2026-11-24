@@ -1,0 +1,472 @@
+﻿No.;Designación;Cantidad;Longitud - cruda;Ancho - crudo;Espesor - crudo;Longitud;Anchura;Grosor;Area - final;Tipo de material;Nombre del material;Descripción del material;URL del material;Nombres de instancias;Descripción;URL;Etiquetas;Longitud del borde 1;Longitud del borde 2;Ancho del borde 1;Ancho de borde 2;Frente;Dorso;Etiquetas
+A;LIBRERO FONDO;1;1579 mm;584 mm;3 mm;1579 mm;584 mm;3 mm;0.92 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;CAJONERA COCINA FONDO;1;802 mm;664 mm;3 mm;802 mm;664 mm;3 mm;0.53 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+C;CAJONERA LAVAPLATOS FONDO;1;802 mm;584 mm;3 mm;802 mm;584 mm;3 mm;0.47 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+D;CAJON CUBIERTERO FONDO;1;608 mm;484 mm;3 mm;608 mm;484 mm;3 mm;0.29 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+E;ALACENA 1 FONDO;1;564 mm;665 mm;3 mm;564 mm;665 mm;3 mm;0.38 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+F;ALACENA 2 FONDO;1;564 mm;559 mm;3 mm;564 mm;559 mm;3 mm;0.32 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+G;ALACENA 3 FONDO;1;564 mm;558 mm;3 mm;564 mm;558 mm;3 mm;0.31 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+H;ALACENA 4 FONDO;1;514 mm;664 mm;3 mm;514 mm;664 mm;3 mm;0.34 m²;Tablero;Fondo Roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;MUEBLE DESPENSA TAPA IZQUIERDA#1;1;2065 mm;719 mm;15 mm;2065 mm;720 mm;15 mm;1.49 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+B;MUEBLE REFRIGERADOR LATERAL DERECHO;1;2065 mm;704 mm;15 mm;2065 mm;705 mm;15 mm;1.46 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+C;MUEBLE REFRIGERADOR LATERAL IZQUIERDO;1;2065 mm;704 mm;15 mm;2065 mm;705 mm;15 mm;1.46 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+D;MUEBLE REFRIGERADOR FONDO 15MM;1;2050 mm;720 mm;15 mm;2050 mm;720 mm;15 mm;1.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+E;MUEBLE DESPENSA PUERTA#1;1;2004 mm;596 mm;15 mm;2005 mm;597 mm;15 mm;1.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+F;MUEBLE DESPENSA LATERAL IZQUIERDA#1;1;1990 mm;734 mm;15 mm;1990 mm;735 mm;15 mm;1.46 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+G;MUEBLE DESPENSA LATERAL DERECHA#1;1;1990 mm;689 mm;15 mm;1990 mm;690 mm;15 mm;1.37 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+H;CAJONERA LAVAROPA LATERAL DERECHO;1;810 mm;599 mm;15 mm;810 mm;600 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+I;CAJONERA LAVAROPA LATERAL IZQUIERDO;1;810 mm;599 mm;15 mm;810 mm;600 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+J;CAJONERA COCINA LATERAL DERECHO;1;795 mm;599 mm;15 mm;795 mm;600 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+K;CAJONERA COCINA LATERAL IZQUIERDO;1;795 mm;599 mm;15 mm;795 mm;600 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+L;CAJONERA LAVAPLATOS LATERAL DERECHA;1;795 mm;599 mm;15 mm;795 mm;600 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+M;CAJONERA LAVAPLATOS LATERAL IZQUIERDA;1;795 mm;599 mm;15 mm;795 mm;600 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+N;CAJONERA CUBIERTOS LATERAL DERECHO;1;795 mm;504 mm;15 mm;795 mm;505 mm;15 mm;0.40 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+O;CAJONERA CUBIERTOS LATERAL DERECHO#1;1;795 mm;504 mm;15 mm;795 mm;505 mm;15 mm;0.40 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+P;CAJONERA CUBIERTOS LATERAL IZQUIERDA;1;795 mm;504 mm;15 mm;795 mm;505 mm;15 mm;0.40 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+Q;CAJONERA CUBIERTOS LATERAL IZQUIERDA#1;1;795 mm;504 mm;15 mm;795 mm;505 mm;15 mm;0.40 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+R;CAJONERA CUBIERTOS FONDO 15mm;1;780 mm;350 mm;15 mm;780 mm;350 mm;15 mm;0.27 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+S;CAJONERA ESPECIERO FONDO 15mm;1;780 mm;150 mm;15 mm;780 mm;150 mm;15 mm;0.12 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+T;CAJONERA LAVAROPA PUERTA;1;767 mm;664 mm;15 mm;768 mm;665 mm;15 mm;0.51 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+U;CAJONERA LAVAPLATOS PUERTA;1;767 mm;596 mm;15 mm;768 mm;597 mm;15 mm;0.46 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+V;CAJONERA CUBIERTOS PUERTA;1;767 mm;376 mm;15 mm;768 mm;377 mm;15 mm;0.29 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+W;CAJONERA ESPECIERO PUERTA;1;767 mm;176 mm;15 mm;768 mm;177 mm;15 mm;0.14 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+X;MUEBLE DESPENSA TAPA INFERIOR#1;1;689 mm;585 mm;15 mm;690 mm;585 mm;15 mm;0.40 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+Y;MUEBLE DESPENSA REPISA 1 DE 5;1;689 mm;555 mm;15 mm;690 mm;555 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+Z;MUEBLE DESPENSA REPISA 2 DE 5;1;689 mm;555 mm;15 mm;690 mm;555 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AA;MUEBLE DESPENSA REPISA 3 DE 5;1;689 mm;555 mm;15 mm;690 mm;555 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AB;MUEBLE DESPENSA REPISA 4 DE 5;1;689 mm;555 mm;15 mm;690 mm;555 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AC;MUEBLE DESPENSA REPISA 5 DE 5;1;689 mm;555 mm;15 mm;690 mm;555 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AD;MUEBLE DESPENSA TAPA SUPERIOR#1;1;689 mm;555 mm;15 mm;690 mm;555 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AE;MUEBLE REFRIGERADOR TAPA SUPERIOR;1;684 mm;720 mm;15 mm;685 mm;720 mm;15 mm;0.49 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AF;MUEBLE REFRIGERADOR REPISA 1 DE 1;1;669 mm;720 mm;15 mm;670 mm;720 mm;15 mm;0.48 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AG;ALACENA 1 REPISA 1 DE 1;1;651 mm;331 mm;15 mm;651 mm;331 mm;15 mm;0.22 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";"";Layer0
+AH;ALACENA 1 ZOCALO SUJECION 1 DE 2;1;651 mm;100 mm;15 mm;651 mm;100 mm;15 mm;0.07 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";"";Layer0
+AI;ALACENA 1 ZOCALO SUJECION 2 DE 2;1;651 mm;100 mm;15 mm;651 mm;100 mm;15 mm;0.07 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+AJ;ALACENA 4 ZOCALO SUJECION 1 DE 2;1;650 mm;100 mm;15 mm;650 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";"";Layer0
+AK;ALACENA 4 ZOCALO SUJECION 2 DE 2;1;650 mm;100 mm;15 mm;650 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+AL;CAJONERA COCINA ZOCALO SUJECION 3 DE 4;1;649 mm;99 mm;15 mm;650 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+AM;CAJONERA COCINA ZOCALO SUJECION 4 DE 4;1;649 mm;99 mm;15 mm;650 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+AN;CAJON CUBIERTERO LATERAL DELANTERO;1;623 mm;100 mm;15 mm;624 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AO;CAJON CUBIERTERO LATERAL TRASERO;1;624 mm;100 mm;15 mm;624 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+AP;CAJONERA COCINA PUERTA;1;614 mm;675 mm;15 mm;615 mm;676 mm;15 mm;0.42 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AQ;CAJONERA COCINA LATERAL INTERIOR;1;603 mm;581 mm;15 mm;603 mm;581 mm;15 mm;0.35 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+AR;CAJONERA COCINA TAPA INFERIOR;1;599 mm;679 mm;15 mm;600 mm;680 mm;15 mm;0.41 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AS;CAJONERA LAVAROPA TAPA INFERIOR;1;599 mm;640 mm;15 mm;600 mm;640 mm;15 mm;0.38 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AT;CAJONERA LAVAPLATOS TAPA INFERIOR;1;599 mm;600 mm;15 mm;600 mm;600 mm;15 mm;0.36 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AU;CAJONERA COCINA REPISA 1 DE 3;1;581 mm;290 mm;15 mm;581 mm;290 mm;15 mm;0.17 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+AV;CAJONERA COCINA REPISA 2 DE 3;1;581 mm;290 mm;15 mm;581 mm;290 mm;15 mm;0.17 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+AW;CAJONERA COCINA REPISA 3 DE 3;1;581 mm;290 mm;15 mm;581 mm;290 mm;15 mm;0.17 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+AX;ALACENA 4 LATERAL DERECHA;1;565 mm;349 mm;15 mm;565 mm;350 mm;15 mm;0.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AY;ALACENA 4 LATERAL IZQUIERDO;1;565 mm;349 mm;15 mm;565 mm;350 mm;15 mm;0.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+AZ;ALACENA 1 LATERAL DERECHO;1;550 mm;349 mm;15 mm;550 mm;350 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BA;ALACENA 1 LATERAL IZQUIERDO;1;550 mm;349 mm;15 mm;550 mm;350 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BB;ALACENA 3 LATERAL DERECHA#1;1;550 mm;349 mm;15 mm;550 mm;350 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BC;ALACENA 3 LATERAL IZQUIERDA;1;550 mm;349 mm;15 mm;550 mm;350 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BD;ALACENA 2 LATERAL DERECHO;1;550 mm;344 mm;15 mm;550 mm;345 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BE;ALACENA 2 LATERAL IZQUIERDO;1;550 mm;344 mm;15 mm;550 mm;345 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BF;ALACENA 3 REPISA 1 DE 1;1;544 mm;350 mm;15 mm;544 mm;350 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BG;ALACENA 3 ZOCALO SUJECION 1 DE 2#2;2;544 mm;99 mm;15 mm;544 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BH;CAJONERA CUBIERTOS BASE INFERIOR;1;504 mm;380 mm;15 mm;505 mm;380 mm;15 mm;0.19 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BI;CAJONERA ESPECIERO BASE INFERIOR;1;504 mm;180 mm;15 mm;505 mm;180 mm;15 mm;0.09 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BJ;ALACENA 4 DIVISOR VERTICAL 1 DE 2;1;500 mm;331 mm;15 mm;500 mm;331 mm;15 mm;0.17 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";"";Layer0
+BK;ALACENA 4 TAPA EXTRACTOR INTERNO;1;500 mm;248 mm;15 mm;500 mm;248 mm;15 mm;0.12 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+BL;CAJON CUBIERTERO LATERAL DERECHO;1;470 mm;100 mm;15 mm;470 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BM;CAJON CUBIERTERO LATERAL IZQUIERDO;1;470 mm;100 mm;15 mm;470 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";Layer0
+BN;LIBRERO TAPA PUERTA 1 DE 2;1;406 mm;294 mm;15 mm;407 mm;295 mm;15 mm;0.12 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BO;LIBRERO TAPA PUERTA 2 DE 2;1;406 mm;294 mm;15 mm;407 mm;295 mm;15 mm;0.12 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BP;ALACENA 4 DIVISOR VERTICAL 2 DE 2;1;355 mm;331 mm;15 mm;355 mm;331 mm;15 mm;0.12 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";"";"";Layer0
+BQ;ALACENA 1 TAPA INFERIOR;1;349 mm;681 mm;15 mm;350 mm;681 mm;15 mm;0.24 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BR;ALACENA 1 TAPA SUPERIOR;1;349 mm;681 mm;15 mm;350 mm;681 mm;15 mm;0.24 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BS;ALACENA 4 TAPA SUPERIOR#1;1;349 mm;680 mm;15 mm;350 mm;680 mm;15 mm;0.24 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BT;ALACENA 4 TAPA INFERIOR#1;1;349 mm;650 mm;15 mm;350 mm;650 mm;15 mm;0.23 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BU;ALACENA 3 TAPA INFERIOR;1;349 mm;574 mm;15 mm;350 mm;574 mm;15 mm;0.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BV;ALACENA 3 TAPA SUPERIOR;1;349 mm;574 mm;15 mm;350 mm;574 mm;15 mm;0.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BW;ALACENA 2 TAPA INFERIOR;1;344 mm;575 mm;15 mm;345 mm;575 mm;15 mm;0.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BX;ALACENA 2 TAPA SUPERIOR;1;344 mm;575 mm;15 mm;345 mm;575 mm;15 mm;0.20 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+BY;ALACENA 4 PEDAZO DERECHA 2 DE 3;1;335 mm;35 mm;15 mm;335 mm;35 mm;15 mm;0.01 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+BZ;ALACENA 4 PEDAZO IZQUIERDA 2 DE 3;1;335 mm;35 mm;15 mm;335 mm;35 mm;15 mm;0.01 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+CA;ALACENA 4 PEDAZO DERECHA 3 DE 3;1;335 mm;22 mm;15 mm;335 mm;22 mm;15 mm;0.01 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+CB;ALACENA 4 PEDAZO IZQUIERDA 3 DE 3;1;335 mm;22 mm;15 mm;335 mm;22 mm;15 mm;0.01 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";"";Layer0
+CC;ALACENA 4 REPISA 2 DE 3;1;331 mm;201 mm;15 mm;331 mm;201 mm;15 mm;0.07 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+CD;ALACENA 4 REPISA 1 DE 3;1;331 mm;186 mm;15 mm;331 mm;186 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+CE;ALACENA 4 REPISA 3 DE 3;1;331 mm;186 mm;15 mm;331 mm;186 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+CF;MUEBLE DESPENZA ZOCALO SUJECION 2 DE 2;1;320 mm;216 mm;15 mm;320 mm;216 mm;15 mm;0.07 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+CG;MUEBLE DESPENZA ZOCALO SUJECION 1 DE 2;1;285 mm;216 mm;15 mm;285 mm;216 mm;15 mm;0.06 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+CH;ALACENA 4 TAPA TUBO INTERNO;1;201 mm;130 mm;15 mm;201 mm;130 mm;15 mm;0.03 m²;Tablero;Melamina roble;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+CI;CAJON CUBIERTERO TAPA;1;149 mm;675 mm;15 mm;150 mm;676 mm;15 mm;0.10 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+CJ;ALACENA 4 PEDAZO DERECHA 1 DE 3;1;50 mm;21 mm;15 mm;50 mm;22 mm;15 mm;0.00 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+CK;ALACENA 4 PEDAZO IZQUIERDA 1 DE 3;1;50 mm;21 mm;15 mm;50 mm;22 mm;15 mm;0.00 m²;Tablero;Melamina roble;"";"";"";"";"";"";Tapa Canto Roble (0 mm x 23 mm);Tapa Canto Roble (0 mm x 23 mm);"";Tapa Canto Roble (0 mm x 23 mm);"";"";Layer0
+A;LIBRERO LATERAL DERECHO;1;1565 mm;350 mm;15 mm;1565 mm;350 mm;15 mm;0.55 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+B;LIBRERO LATERAL IZQUIERDO;1;1565 mm;350 mm;15 mm;1565 mm;350 mm;15 mm;0.55 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+C;3BRAZO BRAZO LARGO;2;1000 mm;70 mm;15 mm;1000 mm;70 mm;15 mm;0.07 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+D;ALACENA 1 PUERTA;1;678 mm;591 mm;15 mm;678 mm;592 mm;15 mm;0.40 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+E;ALACENA 4 TAPA;1;676 mm;591 mm;15 mm;677 mm;592 mm;15 mm;0.36 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+F;CAJONERA COCINA ZOCALO SUJECION 1 DE 4;1;650 mm;60 mm;15 mm;650 mm;60 mm;15 mm;0.04 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+G;CAJONERA COCINA ZOCALO SUJECION 2 DE 4;1;650 mm;60 mm;15 mm;650 mm;60 mm;15 mm;0.04 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+H;CAJONERA LAVAROPA ZOCALO SUJECION 1 DE 4;1;640 mm;60 mm;15 mm;640 mm;60 mm;15 mm;0.04 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+I;CAJONERA LAVAROPA ZOCALO SUJECION 2 DE 4;1;640 mm;60 mm;15 mm;640 mm;60 mm;15 mm;0.04 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+J;LIBRERO LATERAL INFERIOR;1;599 mm;350 mm;15 mm;600 mm;350 mm;15 mm;0.21 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+K;LIBRERO LATERAL SUPERIOR;1;599 mm;350 mm;15 mm;600 mm;350 mm;15 mm;0.21 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+L;ALACENA 3 PUERTA IZQUIERDA;1;591 mm;570 mm;15 mm;592 mm;571 mm;15 mm;0.34 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+M;LIBRERO REPISA 1 DE 3;1;570 mm;331 mm;15 mm;570 mm;331 mm;15 mm;0.19 m²;Tablero;Melamina trama titanio;"";"";LIBRERO REPISA 1 DE 3;"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+N;LIBRERO REPISA 2 DE 3;1;570 mm;331 mm;15 mm;570 mm;331 mm;15 mm;0.19 m²;Tablero;Melamina trama titanio;"";"";LIBRERO REPISA 2 DE 3;"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";"";Layer0
+O;LIBRERO REPISA 3 DE 3;1;570 mm;331 mm;15 mm;570 mm;331 mm;15 mm;0.19 m²;Tablero;Melamina trama titanio;"";"";LIBRERO REPISA 3 DE 3;"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";"";Layer0
+P;CAJONERA LAVAPLATOS ZOCALO SUJECION 2 DE 4;1;569 mm;99 mm;15 mm;570 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+Q;CAJONERA LAVAPLATOS ZOCALO SUJECION 3 DE 4;1;569 mm;99 mm;15 mm;570 mm;100 mm;15 mm;0.06 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";Layer0
+R;3BRAZO BRAZO CORTO;2;570 mm;70 mm;15 mm;570 mm;70 mm;15 mm;0.04 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+S;CAJONERA LAVAPLATOS ZOCALO SUJECION 1 DE 4;1;570 mm;60 mm;15 mm;570 mm;60 mm;15 mm;0.03 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+T;CAJONERA LAVAPLATOS ZOCALO SUJECION 4 DE 4;1;570 mm;60 mm;15 mm;570 mm;60 mm;15 mm;0.03 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+U;ALACENA 2 ZOCALO SUJECION 1 DE 2;1;545 mm;100 mm;15 mm;545 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";"";Layer0
+V;ALACENA 2 ZOCALO SUJECION 2 DE 2;1;545 mm;100 mm;15 mm;545 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+W;3BRAZO SOPORTE BRAZO 1;2;470 mm;100 mm;15 mm;470 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+X;3BRAZO SOPORTE BRAZO 2;2;470 mm;100 mm;15 mm;470 mm;100 mm;15 mm;0.05 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+Y;3BRAZO SOPORTE BRAZO 3;2;470 mm;15 mm;15 mm;470 mm;15 mm;15 mm;0.01 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+Z;3BRAZO SOPORTE BRAZO 4;2;470 mm;15 mm;15 mm;470 mm;15 mm;15 mm;0.01 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AA;CAJONERA CUBIERTOS ZOCALO SUJECION 1 DE 2;1;350 mm;60 mm;15 mm;350 mm;60 mm;15 mm;0.02 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AB;CAJONERA CUBIERTOS ZOCALO SUJECION 2 DE 2;1;350 mm;60 mm;15 mm;350 mm;60 mm;15 mm;0.02 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+AC;3BRAZO SOPORTE 3;2;200 mm;145 mm;15 mm;200 mm;145 mm;15 mm;0.03 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AD;3BRAZO SOPORTE 4;2;200 mm;145 mm;15 mm;200 mm;145 mm;15 mm;0.03 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AE;3BRAZO SOPORTE 1;2;200 mm;100 mm;15 mm;200 mm;100 mm;15 mm;0.02 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AF;3BRAZO SOPORTE 2;2;200 mm;100 mm;15 mm;200 mm;100 mm;15 mm;0.02 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AG;3BRAZO SOPORTE 5;2;200 mm;100 mm;15 mm;200 mm;100 mm;15 mm;0.02 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AH;3BRAZO SOPORTE 6;2;200 mm;100 mm;15 mm;200 mm;100 mm;15 mm;0.02 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AI;CAJONERA ESPECIERO ZOCALO SUJECION 1 DE 2;1;150 mm;60 mm;15 mm;150 mm;60 mm;15 mm;0.01 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+AJ;CAJONERA ESPECIERO ZOCALO SUJECION 2 DE 2;1;150 mm;60 mm;15 mm;150 mm;60 mm;15 mm;0.01 m²;Tablero;Melamina trama titanio;"";"";"";"";"";"";"";Tapa Canto Trama Titanio (0 mm x 23 mm);"";"";"";"";Layer0
+A;MUEBLE DESPENSA TAPA IZQUIERDA#1 - Longitud del borde 1;1;2065 mm;23 mm;0 mm;2065 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+B;MUEBLE DESPENSA TAPA IZQUIERDA#1 - Longitud del borde 2;1;2065 mm;23 mm;0 mm;2065 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+C;MUEBLE REFRIGERADOR LATERAL DERECHO - Longitud del borde 1;1;2065 mm;23 mm;0 mm;2065 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+D;MUEBLE REFRIGERADOR LATERAL DERECHO - Longitud del borde 2;1;2065 mm;23 mm;0 mm;2065 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+E;MUEBLE REFRIGERADOR LATERAL IZQUIERDO - Longitud del borde 1;1;2065 mm;23 mm;0 mm;2065 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+F;MUEBLE REFRIGERADOR LATERAL IZQUIERDO - Longitud del borde 2;1;2065 mm;23 mm;0 mm;2065 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+G;MUEBLE DESPENSA PUERTA#1 - Longitud del borde 1;1;2005 mm;23 mm;0 mm;2005 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+H;MUEBLE DESPENSA PUERTA#1 - Longitud del borde 2;1;2005 mm;23 mm;0 mm;2005 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+I;MUEBLE DESPENSA LATERAL DERECHA#1 - Longitud del borde 1;1;1990 mm;23 mm;0 mm;1990 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+J;MUEBLE DESPENSA LATERAL DERECHA#1 - Longitud del borde 2;1;1990 mm;23 mm;0 mm;1990 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+K;MUEBLE DESPENSA LATERAL IZQUIERDA#1 - Longitud del borde 1;1;1990 mm;23 mm;0 mm;1990 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+L;MUEBLE DESPENSA LATERAL IZQUIERDA#1 - Longitud del borde 2;1;1990 mm;23 mm;0 mm;1990 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+M;CAJONERA LAVAROPA LATERAL DERECHO - Longitud del borde 1;1;810 mm;23 mm;0 mm;810 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+N;CAJONERA LAVAROPA LATERAL DERECHO - Longitud del borde 2;1;810 mm;23 mm;0 mm;810 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+O;CAJONERA LAVAROPA LATERAL IZQUIERDO - Longitud del borde 1;1;810 mm;23 mm;0 mm;810 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+P;CAJONERA LAVAROPA LATERAL IZQUIERDO - Longitud del borde 2;1;810 mm;23 mm;0 mm;810 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+Q;CAJONERA COCINA LATERAL DERECHO - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+R;CAJONERA COCINA LATERAL DERECHO - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+S;CAJONERA COCINA LATERAL IZQUIERDO - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+T;CAJONERA COCINA LATERAL IZQUIERDO - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+U;CAJONERA CUBIERTOS LATERAL DERECHO - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+V;CAJONERA CUBIERTOS LATERAL DERECHO - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+W;CAJONERA CUBIERTOS LATERAL DERECHO#1 - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+X;CAJONERA CUBIERTOS LATERAL DERECHO#1 - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+Y;CAJONERA CUBIERTOS LATERAL IZQUIERDA - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+Z;CAJONERA CUBIERTOS LATERAL IZQUIERDA - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AA;CAJONERA CUBIERTOS LATERAL IZQUIERDA#1 - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AB;CAJONERA CUBIERTOS LATERAL IZQUIERDA#1 - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AC;CAJONERA LAVAPLATOS LATERAL DERECHA - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AD;CAJONERA LAVAPLATOS LATERAL DERECHA - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AE;CAJONERA LAVAPLATOS LATERAL IZQUIERDA - Longitud del borde 1;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AF;CAJONERA LAVAPLATOS LATERAL IZQUIERDA - Longitud del borde 2;1;795 mm;23 mm;0 mm;795 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AG;CAJONERA CUBIERTOS PUERTA - Longitud del borde 1;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AH;CAJONERA CUBIERTOS PUERTA - Longitud del borde 2;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AI;CAJONERA ESPECIERO PUERTA - Longitud del borde 1;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AJ;CAJONERA ESPECIERO PUERTA - Longitud del borde 2;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AK;CAJONERA LAVAPLATOS PUERTA - Longitud del borde 1;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AL;CAJONERA LAVAPLATOS PUERTA - Longitud del borde 2;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AM;CAJONERA LAVAROPA PUERTA - Longitud del borde 1;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AN;CAJONERA LAVAROPA PUERTA - Longitud del borde 2;1;768 mm;23 mm;0 mm;768 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AO;MUEBLE DESPENSA TAPA IZQUIERDA#1 - Ancho del borde 1;1;720 mm;23 mm;0 mm;720 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AP;MUEBLE REFRIGERADOR FONDO 15MM - Ancho de borde 2;1;720 mm;23 mm;0 mm;720 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AQ;MUEBLE REFRIGERADOR REPISA 1 DE 1 - Ancho de borde 2;1;720 mm;23 mm;0 mm;720 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AR;MUEBLE REFRIGERADOR REPISA 1 DE 1 - Ancho del borde 1;1;720 mm;23 mm;0 mm;720 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AS;MUEBLE REFRIGERADOR TAPA SUPERIOR - Ancho de borde 2;1;720 mm;23 mm;0 mm;720 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AT;MUEBLE REFRIGERADOR TAPA SUPERIOR - Ancho del borde 1;1;720 mm;23 mm;0 mm;720 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AU;MUEBLE REFRIGERADOR LATERAL DERECHO - Ancho del borde 1;1;705 mm;23 mm;0 mm;705 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AV;MUEBLE REFRIGERADOR LATERAL IZQUIERDO - Ancho del borde 1;1;705 mm;23 mm;0 mm;705 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AW;MUEBLE DESPENSA TAPA INFERIOR#1 - Longitud del borde 2;1;690 mm;23 mm;0 mm;690 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AX;ALACENA 1 TAPA INFERIOR - Ancho de borde 2;1;681 mm;23 mm;0 mm;681 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AY;ALACENA 1 TAPA INFERIOR - Ancho del borde 1;1;681 mm;23 mm;0 mm;681 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+AZ;ALACENA 1 TAPA SUPERIOR - Ancho de borde 2;1;681 mm;23 mm;0 mm;681 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BA;ALACENA 1 TAPA SUPERIOR - Ancho del borde 1;1;681 mm;23 mm;0 mm;681 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BB;ALACENA 4 TAPA SUPERIOR#1 - Ancho de borde 2;1;680 mm;23 mm;0 mm;680 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BC;ALACENA 4 TAPA SUPERIOR#1 - Ancho del borde 1;1;680 mm;23 mm;0 mm;680 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BD;CAJONERA COCINA TAPA INFERIOR - Ancho de borde 2;1;680 mm;23 mm;0 mm;680 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BE;CAJONERA COCINA TAPA INFERIOR - Ancho del borde 1;1;680 mm;23 mm;0 mm;680 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BF;CAJON CUBIERTERO TAPA - Ancho de borde 2;1;676 mm;23 mm;0 mm;676 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BG;CAJON CUBIERTERO TAPA - Ancho del borde 1;1;676 mm;23 mm;0 mm;676 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BH;CAJONERA COCINA PUERTA - Ancho de borde 2;1;676 mm;23 mm;0 mm;676 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BI;CAJONERA COCINA PUERTA - Ancho del borde 1;1;676 mm;23 mm;0 mm;676 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BJ;CAJONERA LAVAROPA PUERTA - Ancho de borde 2;1;665 mm;23 mm;0 mm;665 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BK;CAJONERA LAVAROPA PUERTA - Ancho del borde 1;1;665 mm;23 mm;0 mm;665 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BL;ALACENA 1 REPISA 1 DE 1 - Longitud del borde 1;1;651 mm;23 mm;0 mm;651 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BM;ALACENA 1 ZOCALO SUJECION 1 DE 2 - Longitud del borde 1;1;651 mm;23 mm;0 mm;651 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BN;ALACENA 1 ZOCALO SUJECION 2 DE 2 - Longitud del borde 2;1;651 mm;23 mm;0 mm;651 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BO;ALACENA 4 TAPA INFERIOR#1 - Ancho de borde 2;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BP;ALACENA 4 TAPA INFERIOR#1 - Ancho del borde 1;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BQ;ALACENA 4 ZOCALO SUJECION 1 DE 2 - Longitud del borde 1;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BR;ALACENA 4 ZOCALO SUJECION 2 DE 2 - Longitud del borde 2;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BS;CAJONERA COCINA ZOCALO SUJECION 3 DE 4 - Longitud del borde 2;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BT;CAJONERA COCINA ZOCALO SUJECION 4 DE 4 - Longitud del borde 1;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BU;CAJONERA LAVAROPA TAPA INFERIOR - Ancho de borde 2;1;640 mm;23 mm;0 mm;640 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BV;CAJONERA LAVAROPA TAPA INFERIOR - Ancho del borde 1;1;640 mm;23 mm;0 mm;640 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BW;CAJON CUBIERTERO LATERAL DELANTERO - Longitud del borde 2;1;624 mm;23 mm;0 mm;624 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BX;CAJON CUBIERTERO LATERAL TRASERO - Longitud del borde 2;1;624 mm;23 mm;0 mm;624 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BY;CAJONERA COCINA PUERTA - Longitud del borde 1;1;615 mm;23 mm;0 mm;615 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+BZ;CAJONERA COCINA PUERTA - Longitud del borde 2;1;615 mm;23 mm;0 mm;615 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CA;CAJONERA COCINA LATERAL INTERIOR - Longitud del borde 1;1;603 mm;23 mm;0 mm;603 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CB;CAJONERA COCINA TAPA INFERIOR - Longitud del borde 1;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CC;CAJONERA COCINA TAPA INFERIOR - Longitud del borde 2;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CD;CAJONERA LAVAPLATOS TAPA INFERIOR - Ancho de borde 2;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CE;CAJONERA LAVAPLATOS TAPA INFERIOR - Ancho del borde 1;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CF;CAJONERA LAVAPLATOS TAPA INFERIOR - Longitud del borde 1;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CG;CAJONERA LAVAROPA LATERAL DERECHO - Ancho de borde 2;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CH;CAJONERA LAVAROPA LATERAL IZQUIERDO - Ancho de borde 2;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CI;CAJONERA LAVAPLATOS PUERTA - Ancho de borde 2;1;597 mm;23 mm;0 mm;597 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CJ;CAJONERA LAVAPLATOS PUERTA - Ancho del borde 1;1;597 mm;23 mm;0 mm;597 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CK;MUEBLE DESPENSA PUERTA#1 - Ancho de borde 2;1;597 mm;23 mm;0 mm;597 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CL;MUEBLE DESPENSA PUERTA#1 - Ancho del borde 1;1;597 mm;23 mm;0 mm;597 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CM;MUEBLE DESPENSA TAPA INFERIOR#1 - Ancho de borde 2;1;585 mm;23 mm;0 mm;585 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CN;MUEBLE DESPENSA TAPA INFERIOR#1 - Ancho del borde 1;1;585 mm;23 mm;0 mm;585 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CO;CAJONERA COCINA LATERAL INTERIOR - Ancho del borde 1;1;581 mm;23 mm;0 mm;581 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CP;ALACENA 2 TAPA INFERIOR - Ancho de borde 2;1;575 mm;23 mm;0 mm;575 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CQ;ALACENA 2 TAPA INFERIOR - Ancho del borde 1;1;575 mm;23 mm;0 mm;575 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CR;ALACENA 2 TAPA SUPERIOR - Ancho de borde 2;1;575 mm;23 mm;0 mm;575 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CS;ALACENA 2 TAPA SUPERIOR - Ancho del borde 1;1;575 mm;23 mm;0 mm;575 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CT;ALACENA 3 TAPA INFERIOR - Ancho de borde 2;1;574 mm;23 mm;0 mm;574 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CU;ALACENA 3 TAPA INFERIOR - Ancho del borde 1;1;574 mm;23 mm;0 mm;574 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CV;ALACENA 3 TAPA SUPERIOR - Ancho de borde 2;1;574 mm;23 mm;0 mm;574 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CW;ALACENA 3 TAPA SUPERIOR - Ancho del borde 1;1;574 mm;23 mm;0 mm;574 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CX;ALACENA 4 LATERAL DERECHA - Longitud del borde 1;1;565 mm;23 mm;0 mm;565 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CY;ALACENA 4 LATERAL DERECHA - Longitud del borde 2;1;565 mm;23 mm;0 mm;565 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+CZ;ALACENA 4 LATERAL IZQUIERDO - Longitud del borde 1;1;565 mm;23 mm;0 mm;565 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DA;ALACENA 4 LATERAL IZQUIERDO - Longitud del borde 2;1;565 mm;23 mm;0 mm;565 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DB;MUEBLE DESPENSA REPISA 1 DE 5 - Ancho de borde 2;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DC;MUEBLE DESPENSA REPISA 1 DE 5 - Ancho del borde 1;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DD;MUEBLE DESPENSA REPISA 2 DE 5 - Ancho de borde 2;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DE;MUEBLE DESPENSA REPISA 2 DE 5 - Ancho del borde 1;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DF;MUEBLE DESPENSA REPISA 3 DE 5 - Ancho de borde 2;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DG;MUEBLE DESPENSA REPISA 3 DE 5 - Ancho del borde 1;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DH;MUEBLE DESPENSA REPISA 4 DE 5 - Ancho de borde 2;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DI;MUEBLE DESPENSA REPISA 4 DE 5 - Ancho del borde 1;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DJ;MUEBLE DESPENSA REPISA 5 DE 5 - Ancho de borde 2;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DK;MUEBLE DESPENSA REPISA 5 DE 5 - Ancho del borde 1;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DL;MUEBLE DESPENSA TAPA SUPERIOR#1 - Ancho de borde 2;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DM;MUEBLE DESPENSA TAPA SUPERIOR#1 - Ancho del borde 1;1;555 mm;23 mm;0 mm;555 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DN;ALACENA 1 LATERAL DERECHO - Longitud del borde 1;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DO;ALACENA 1 LATERAL DERECHO - Longitud del borde 2;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DP;ALACENA 1 LATERAL IZQUIERDO - Longitud del borde 1;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DQ;ALACENA 1 LATERAL IZQUIERDO - Longitud del borde 2;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DR;ALACENA 2 LATERAL DERECHO - Longitud del borde 1;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DS;ALACENA 2 LATERAL DERECHO - Longitud del borde 2;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DT;ALACENA 2 LATERAL IZQUIERDO - Longitud del borde 1;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DU;ALACENA 2 LATERAL IZQUIERDO - Longitud del borde 2;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DV;ALACENA 3 LATERAL DERECHA#1 - Longitud del borde 1;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DW;ALACENA 3 LATERAL DERECHA#1 - Longitud del borde 2;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DX;ALACENA 3 LATERAL IZQUIERDA - Longitud del borde 1;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DY;ALACENA 3 LATERAL IZQUIERDA - Longitud del borde 2;1;550 mm;23 mm;0 mm;550 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+DZ;ALACENA 3 ZOCALO SUJECION 1 DE 2#2 - Longitud del borde 1;2;544 mm;23 mm;0 mm;544 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EA;ALACENA 3 ZOCALO SUJECION 1 DE 2#2 - Longitud del borde 2;2;544 mm;23 mm;0 mm;544 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EB;ALACENA 3 REPISA 1 DE 1 - Longitud del borde 2;1;544 mm;23 mm;0 mm;544 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EC;ALACENA 4 DIVISOR VERTICAL 1 DE 2 - Longitud del borde 1;1;500 mm;23 mm;0 mm;500 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+ED;CAJON CUBIERTERO LATERAL DERECHO - Longitud del borde 2;1;470 mm;23 mm;0 mm;470 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EE;CAJON CUBIERTERO LATERAL IZQUIERDO - Longitud del borde 2;1;470 mm;23 mm;0 mm;470 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EF;LIBRERO TAPA PUERTA 1 DE 2 - Longitud del borde 1;1;407 mm;23 mm;0 mm;407 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EG;LIBRERO TAPA PUERTA 1 DE 2 - Longitud del borde 2;1;407 mm;23 mm;0 mm;407 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EH;LIBRERO TAPA PUERTA 2 DE 2 - Longitud del borde 1;1;407 mm;23 mm;0 mm;407 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EI;LIBRERO TAPA PUERTA 2 DE 2 - Longitud del borde 2;1;407 mm;23 mm;0 mm;407 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EJ;CAJONERA CUBIERTOS BASE INFERIOR - Ancho de borde 2;1;380 mm;23 mm;0 mm;380 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EK;CAJONERA CUBIERTOS BASE INFERIOR - Ancho del borde 1;1;380 mm;23 mm;0 mm;380 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EL;CAJONERA CUBIERTOS PUERTA - Ancho de borde 2;1;377 mm;23 mm;0 mm;377 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EM;CAJONERA CUBIERTOS PUERTA - Ancho del borde 1;1;377 mm;23 mm;0 mm;377 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EN;ALACENA 4 DIVISOR VERTICAL 2 DE 2 - Longitud del borde 1;1;355 mm;23 mm;0 mm;355 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EO;ALACENA 4 LATERAL DERECHA - Ancho de borde 2;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EP;ALACENA 4 LATERAL IZQUIERDO - Ancho de borde 2;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EQ;ALACENA 4 TAPA SUPERIOR#1 - Longitud del borde 2;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+ER;ALACENA 4 PEDAZO DERECHA 3 DE 3 - Longitud del borde 1;1;335 mm;23 mm;0 mm;335 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+ES;ALACENA 4 PEDAZO IZQUIERDA 3 DE 3 - Longitud del borde 2;1;335 mm;23 mm;0 mm;335 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+ET;LIBRERO TAPA PUERTA 1 DE 2 - Ancho de borde 2;1;295 mm;23 mm;0 mm;295 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EU;LIBRERO TAPA PUERTA 1 DE 2 - Ancho del borde 1;1;295 mm;23 mm;0 mm;295 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EV;LIBRERO TAPA PUERTA 2 DE 2 - Ancho de borde 2;1;295 mm;23 mm;0 mm;295 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EW;LIBRERO TAPA PUERTA 2 DE 2 - Ancho del borde 1;1;295 mm;23 mm;0 mm;295 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EX;CAJONERA COCINA REPISA 1 DE 3 - Ancho del borde 1;1;290 mm;23 mm;0 mm;290 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EY;CAJONERA COCINA REPISA 2 DE 3 - Ancho del borde 1;1;290 mm;23 mm;0 mm;290 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+EZ;CAJONERA COCINA REPISA 3 DE 3 - Ancho del borde 1;1;290 mm;23 mm;0 mm;290 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FA;ALACENA 4 REPISA 2 DE 3 - Ancho de borde 2;1;201 mm;23 mm;0 mm;201 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FB;ALACENA 4 REPISA 1 DE 3 - Ancho de borde 2;1;186 mm;23 mm;0 mm;186 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FC;ALACENA 4 REPISA 3 DE 3 - Ancho de borde 2;1;186 mm;23 mm;0 mm;186 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FD;CAJONERA ESPECIERO BASE INFERIOR - Ancho de borde 2;1;180 mm;23 mm;0 mm;180 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FE;CAJONERA ESPECIERO BASE INFERIOR - Ancho del borde 1;1;180 mm;23 mm;0 mm;180 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FF;CAJONERA ESPECIERO PUERTA - Ancho de borde 2;1;177 mm;23 mm;0 mm;177 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FG;CAJONERA ESPECIERO PUERTA - Ancho del borde 1;1;177 mm;23 mm;0 mm;177 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FH;CAJON CUBIERTERO TAPA - Longitud del borde 1;1;150 mm;23 mm;0 mm;150 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FI;CAJON CUBIERTERO TAPA - Longitud del borde 2;1;150 mm;23 mm;0 mm;150 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FJ;CAJON CUBIERTERO LATERAL DELANTERO - Ancho de borde 2;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FK;CAJON CUBIERTERO LATERAL DELANTERO - Ancho del borde 1;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FL;ALACENA 4 PEDAZO DERECHA 1 DE 3 - Longitud del borde 1;1;50 mm;23 mm;0 mm;50 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FM;ALACENA 4 PEDAZO DERECHA 1 DE 3 - Longitud del borde 2;1;50 mm;23 mm;0 mm;50 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FN;ALACENA 4 PEDAZO IZQUIERDA 1 DE 3 - Longitud del borde 1;1;50 mm;23 mm;0 mm;50 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FO;ALACENA 4 PEDAZO IZQUIERDA 1 DE 3 - Longitud del borde 2;1;50 mm;23 mm;0 mm;50 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FP;ALACENA 4 PEDAZO DERECHA 2 DE 3 - Ancho del borde 1;1;35 mm;23 mm;0 mm;35 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FQ;ALACENA 4 PEDAZO IZQUIERDA 2 DE 3 - Ancho del borde 1;1;35 mm;23 mm;0 mm;35 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FR;ALACENA 4 PEDAZO DERECHA 1 DE 3 - Ancho de borde 2;1;22 mm;23 mm;0 mm;22 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FS;ALACENA 4 PEDAZO DERECHA 3 DE 3 - Ancho del borde 1;1;22 mm;23 mm;0 mm;22 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FT;ALACENA 4 PEDAZO IZQUIERDA 1 DE 3 - Ancho de borde 2;1;22 mm;23 mm;0 mm;22 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+FU;ALACENA 4 PEDAZO IZQUIERDA 3 DE 3 - Ancho del borde 1;1;22 mm;23 mm;0 mm;22 mm;23 mm;0 mm;"";Canto;Tapa Canto Roble;"";"";"";"";"";"";"";"";"";"";"";"";""
+A;LIBRERO LATERAL DERECHO - Longitud del borde 2;1;1565 mm;23 mm;0 mm;1565 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+B;LIBRERO LATERAL IZQUIERDO - Longitud del borde 2;1;1565 mm;23 mm;0 mm;1565 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+C;ALACENA 1 PUERTA - Longitud del borde 1;1;678 mm;23 mm;0 mm;678 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+D;ALACENA 1 PUERTA - Longitud del borde 2;1;678 mm;23 mm;0 mm;678 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+E;ALACENA 4 TAPA - Longitud del borde 1;1;677 mm;23 mm;0 mm;677 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+F;ALACENA 4 TAPA - Longitud del borde 2;1;677 mm;23 mm;0 mm;677 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+G;CAJONERA COCINA ZOCALO SUJECION 2 DE 4 - Longitud del borde 2;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+H;CAJONERA COCINA ZOCALO SUJECION 3 DE 4 - Longitud del borde 1;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+I;CAJONERA COCINA ZOCALO SUJECION 4 DE 4 - Longitud del borde 2;1;650 mm;23 mm;0 mm;650 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+J;CAJONERA LAVAROPA ZOCALO SUJECION 2 DE 4 - Longitud del borde 2;1;640 mm;23 mm;0 mm;640 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+K;LIBRERO LATERAL INFERIOR - Longitud del borde 2;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+L;LIBRERO LATERAL SUPERIOR - Longitud del borde 2;1;600 mm;23 mm;0 mm;600 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+M;ALACENA 1 PUERTA - Ancho de borde 2;1;592 mm;23 mm;0 mm;592 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+N;ALACENA 1 PUERTA - Ancho del borde 1;1;592 mm;23 mm;0 mm;592 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+O;ALACENA 3 PUERTA IZQUIERDA - Longitud del borde 1;1;592 mm;23 mm;0 mm;592 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+P;ALACENA 3 PUERTA IZQUIERDA - Longitud del borde 2;1;592 mm;23 mm;0 mm;592 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+Q;ALACENA 4 TAPA - Ancho de borde 2;1;592 mm;23 mm;0 mm;592 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+R;ALACENA 4 TAPA - Ancho del borde 1;1;592 mm;23 mm;0 mm;592 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+S;ALACENA 3 PUERTA IZQUIERDA - Ancho de borde 2;1;571 mm;23 mm;0 mm;571 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+T;ALACENA 3 PUERTA IZQUIERDA - Ancho del borde 1;1;571 mm;23 mm;0 mm;571 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+U;CAJONERA LAVAPLATOS ZOCALO SUJECION 1 DE 4 - Longitud del borde 2;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+V;CAJONERA LAVAPLATOS ZOCALO SUJECION 2 DE 4 - Longitud del borde 1;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+W;CAJONERA LAVAPLATOS ZOCALO SUJECION 2 DE 4 - Longitud del borde 2;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+X;CAJONERA LAVAPLATOS ZOCALO SUJECION 3 DE 4 - Longitud del borde 1;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+Y;CAJONERA LAVAPLATOS ZOCALO SUJECION 3 DE 4 - Longitud del borde 2;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+Z;LIBRERO REPISA 1 DE 3 - Longitud del borde 2;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AA;LIBRERO REPISA 2 DE 3 - Longitud del borde 1;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AB;LIBRERO REPISA 3 DE 3 - Longitud del borde 1;1;570 mm;23 mm;0 mm;570 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AC;ALACENA 2 ZOCALO SUJECION 1 DE 2 - Longitud del borde 1;1;545 mm;23 mm;0 mm;545 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AD;ALACENA 2 ZOCALO SUJECION 2 DE 2 - Longitud del borde 2;1;545 mm;23 mm;0 mm;545 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AE;CAJONERA CUBIERTOS ZOCALO SUJECION 2 DE 2 - Longitud del borde 2;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AF;LIBRERO LATERAL INFERIOR - Ancho de borde 2;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AG;LIBRERO LATERAL INFERIOR - Ancho del borde 1;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AH;LIBRERO LATERAL SUPERIOR - Ancho de borde 2;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AI;LIBRERO LATERAL SUPERIOR - Ancho del borde 1;1;350 mm;23 mm;0 mm;350 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AJ;CAJONERA ESPECIERO ZOCALO SUJECION 2 DE 2 - Longitud del borde 2;1;150 mm;23 mm;0 mm;150 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AK;CAJONERA COCINA ZOCALO SUJECION 3 DE 4 - Ancho de borde 2;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AL;CAJONERA COCINA ZOCALO SUJECION 3 DE 4 - Ancho del borde 1;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AM;CAJONERA COCINA ZOCALO SUJECION 4 DE 4 - Ancho de borde 2;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AN;CAJONERA COCINA ZOCALO SUJECION 4 DE 4 - Ancho del borde 1;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AO;CAJONERA LAVAPLATOS ZOCALO SUJECION 2 DE 4 - Ancho de borde 2;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AP;CAJONERA LAVAPLATOS ZOCALO SUJECION 2 DE 4 - Ancho del borde 1;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AQ;CAJONERA LAVAPLATOS ZOCALO SUJECION 3 DE 4 - Ancho de borde 2;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+AR;CAJONERA LAVAPLATOS ZOCALO SUJECION 3 DE 4 - Ancho del borde 1;1;100 mm;23 mm;0 mm;100 mm;23 mm;0 mm;"";Canto;Tapa Canto Trama Titanio;"";"";"";"";"";"";"";"";"";"";"";"";""
+A;Componente#161;1;714 mm;313 mm;20 mm;714 mm;313 mm;20 mm;"";Indefinido;0136_Carbón metalic ;"";"";PUERTA VIDRIO REFRIGERADOR;"";"";"";"";"";"";"";"";"";Layer0
+B;Componente#160;1;590 mm;569 mm;20 mm;590 mm;569 mm;20 mm;"";Indefinido;0136_Carbón metalic ;"";"";PUERTA VIDRIO ALACENA;"";"";"";"";"";"";"";"";"";Layer0
+A;23#2;1;12 mm;9 mm;2 mm;12 mm;9 mm;2 mm;"";Indefinido;44076971_1879643042113520_634955625599598592_n - 複製;"";"";"";23;"";"";"";"";"";"";"";"";Layer0
+A;H4680B_Front.DWG#1;1;606 mm;596 mm;19 mm;606 mm;596 mm;19 mm;"";Indefinido;<CorrogateShiny>2;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Component#424;1;480 mm;338 mm;320 mm;480 mm;338 mm;320 mm;"";Indefinido;<LightGray>1;"";"";Thung rac (MS: EUBL400);"";"";"";"";"";"";"";"";"";DECOR
+B;Group#374;1;480 mm;27 mm;24 mm;480 mm;27 mm;24 mm;"";Indefinido;<LightGray>1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+C;Group#374;1;480 mm;27 mm;24 mm;480 mm;27 mm;24 mm;"";Indefinido;<LightGray>1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+D;Group#375;1;480 mm;285 mm;18 mm;480 mm;285 mm;18 mm;"";Indefinido;<LightGray>1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+E;Group#375;1;480 mm;285 mm;18 mm;480 mm;285 mm;18 mm;"";Indefinido;<LightGray>1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+F;Group#372;1;480 mm;53 mm;18 mm;480 mm;53 mm;18 mm;"";Indefinido;<LightGray>1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+G;Group#372;1;480 mm;53 mm;18 mm;480 mm;53 mm;18 mm;"";Indefinido;<LightGray>1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;TAPA DE LICUADORA;1;129 mm;129 mm;28 mm;129 mm;129 mm;28 mm;"";Indefinido;[0136_Charcoal]1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;1#1;1;30 mm;14 mm;1 mm;30 mm;14 mm;1 mm;"";Indefinido;[0136_Charcoal]1;"";"";"";1;"";"";"";"";"";"";"";"";Layer0
+A;SAMSUNG REFRIGE;1;1680 mm;680 mm;650 mm;1680 mm;680 mm;650 mm;"";Indefinido;[Aluminum]2;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;Component#10;4;40 mm;40 mm;30 mm;40 mm;40 mm;30 mm;"";Indefinido;[Aluminum]2;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;元件#2;76;2 mm;2 mm;2 mm;2 mm;2 mm;2 mm;"";Indefinido;[Color M08]2;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;元件#2;56;2 mm;2 mm;2 mm;2 mm;2 mm;2 mm;"";Indefinido;[Color M08]2;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Componente#11;1;418 mm;350 mm;202 mm;418 mm;350 mm;202 mm;"";Indefinido;[Color_001]2;"";"";batidora accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;Component#1;1;756 mm;547 mm;27 mm;756 mm;547 mm;27 mm;"";Indefinido;Color_005;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;Component#34;1;600 mm;510 mm;27 mm;600 mm;510 mm;27 mm;"";Indefinido;Color_005;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Componente#2;1;195 mm;122 mm;122 mm;195 mm;122 mm;122 mm;"";Indefinido;[Color_008]1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;Componente#2;1;195 mm;115 mm;115 mm;195 mm;115 mm;115 mm;"";Indefinido;[Color_008]1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;5809#1;1;700 mm;480 mm;37 mm;700 mm;480 mm;37 mm;"";Indefinido;Color_D04;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;gradas+cea;1;2119 mm;1484 mm;1364 mm;2119 mm;1484 mm;1364 mm;"";Indefinido;Metal Seamed;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;marche en bois (premiere ) 01;1;780 mm;150 mm;60 mm;780 mm;150 mm;60 mm;"";Indefinido;Metal Seamed;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Licuadora Clsica Oster Roja M 4126;1;388 mm;200 mm;197 mm;388 mm;200 mm;197 mm;"";Indefinido;[Metal_Corrogated_Shiny]7;"";"";licuadora accesorio;Licuadora Clasica de tres velocidades Mraca Oster Modelo 4126, es poporcional a la Real, Mira el Linsk del Oficiadel de Oster para Este Producto: http://www.oster.com.mx/ProductDetail.aspx?cid=1895;"";"";"";"";"";"";"";"";Layer0
+A;Componente#3;1;231 mm;185 mm;178 mm;231 mm;185 mm;178 mm;"";Indefinido;Translucent_Glass_Green_Dark;"";"";sumidora  accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;KEBC147KSS_KA_24_Single_Oven_stainless1976-11-26 20:42:14 -0700;1;651 mm;570 mm;560 mm;651 mm;570 mm;560 mm;"";Indefinido;C01_Vanilla_Cream;"";"";horno accesorio;** KEBC147KSS KitchenAid 3.1 Cu. Ft. True Convection Oven, Architect® Series ** (http://www.insideadvantage.com/catalog/product.jsp?categoryId=2&productId=11) :  This premium built-in oven combines the sleek design of our Architect ® Series oven with our EasyConvect conversion system. You simply enter your conventional cooking time and temperature, and the oven makes the precise conversion, offering you professional, even results every time. Depth 23-1/4 x Height 29 x Width 23-3/4. ;"";"";"";"";"";"";"";"";Layer0
+A;Krabice+mleka;1;165 mm;95 mm;60 mm;165 mm;95 mm;60 mm;"";Indefinido;DSCN0101;"";"";leche accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;CESTA+VIME+002+redonda+paninho;1;236 mm;197 mm;149 mm;236 mm;197 mm;149 mm;"";Indefinido;FoodVarious0016_1_S;"";"";pan accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;Component#459;1;380 mm;304 mm;264 mm;380 mm;304 mm;264 mm;"";Indefinido;Ikea Lagan Cooking Hob_METALL1;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;1610101 Profil Gola L, horizontalni, 4200 mm#3;1;2510 mm;57 mm;26 mm;2510 mm;57 mm;26 mm;"";Indefinido;M09_Shadow_Night;"";"";jalador gola superior J;"";"";"";"";"";"";"";"";"";Layer0
+A;Componente#162;1;500 mm;500 mm;217 mm;500 mm;500 mm;217 mm;"";Indefinido;Material;"";"";Componente#1;Componente#1;"";"";"";"";"";"";"";"";Unnamed [1]
+B;Componente#163;1;500 mm;400 mm;217 mm;500 mm;400 mm;217 mm;"";Indefinido;Material;"";"";Componente#1;Componente#1;"";"";"";"";"";"";"";"";Unnamed [1]
+C;Sink+80#1;1;290 mm;263 mm;100 mm;290 mm;263 mm;100 mm;"";Indefinido;Material;"";"";lavaplatos accesorio;"";"";"";"";"";"";"";"";"";Layer0
+D;Sink+80#2;1;290 mm;263 mm;100 mm;290 mm;263 mm;100 mm;"";Indefinido;Material;"";"";lavaplatos accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;OFF#2;2;4 mm;2 mm;1 mm;4 mm;2 mm;1 mm;"";Indefinido;Material25;"";"";"";OFF;"";"";"";"";"";"";"";"";Layer0
+B;Classic;1;20 mm;5 mm;1 mm;20 mm;5 mm;1 mm;"";Indefinido;Material25;"";"";"";Classic;"";"";"";"";"";"";"";"";Layer0
+C;III;1;2 mm;2 mm;0 mm;2 mm;2 mm;0 mm;"";Indefinido;Material25;"";"";"";III;"";"";"";"";"";"";"";"";Layer0
+D;II;1;2 mm;1 mm;0 mm;2 mm;1 mm;0 mm;"";Indefinido;Material25;"";"";"";II;"";"";"";"";"";"";"";"";Layer0
+E;I;1;2 mm;0 mm;0 mm;2 mm;0 mm;0 mm;"";Indefinido;Material25;"";"";"";I;"";"";"";"";"";"";"";"";Layer0
+A;Presse+Agrumes+V10+2016;1;397 mm;255 mm;190 mm;397 mm;255 mm;190 mm;"";Indefinido;Material29;"";"";exprimidora accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;piletta;2;120 mm;120 mm;88 mm;120 mm;120 mm;88 mm;"";Indefinido;Material4;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;TORNILLO+CON+TUERCA+MARIPOSA;6;18 mm;16 mm;8 mm;18 mm;16 mm;8 mm;"";Indefinido;Material55;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Dust Bin / Trash Can;2;454 mm;341 mm;227 mm;454 mm;341 mm;227 mm;"";Indefinido;Nhua thung rac;"";"";"";Office trash can;"";"";"";"";"";"";"";"";Layer0
+A;marche en bois (premiere ) 01;1;780 mm;635 mm;60 mm;780 mm;635 mm;60 mm;"";Indefinido;piso mobilier sancris;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+B;marche en bois (premiere ) 01;4;780 mm;150 mm;60 mm;780 mm;150 mm;60 mm;"";Indefinido;piso mobilier sancris;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+C;marche en bois (premiere ) 01;3;657 mm;178 mm;60 mm;657 mm;178 mm;60 mm;"";Indefinido;piso mobilier sancris;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;CAJON CUBIERTERO;1;650 mm;31 mm;30 mm;650 mm;31 mm;30 mm;"";Indefinido;Plywood_01_1K;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Nescafe;1;173 mm;168 mm;77 mm;173 mm;168 mm;77 mm;"";Indefinido;S01bcb68205164ec7991647551271585cM.jpg_720x720q80 (1);"";"";nescafe accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;cereales;1;330 mm;240 mm;217 mm;330 mm;240 mm;217 mm;"";Indefinido;smacks;"";"";cereales accesorio;"";"";"";"";"";"";"";"";"";Layer0
+A;電鍋軸承#1;1;145 mm;46 mm;34 mm;145 mm;46 mm;34 mm;"";Indefinido;SS PLASTIC;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;weave-00;1;285 mm;195 mm;129 mm;285 mm;195 mm;129 mm;"";Indefinido;weave-00;"";"";"";"";"";"";"";"";"";"";"";"";Layer0
+A;Agrupar#53;1;472 mm;10 mm;10 mm;472 mm;10 mm;10 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+B;Agrupar#77;1;472 mm;10 mm;10 mm;472 mm;10 mm;10 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+C;Agrupar#90;1;472 mm;10 mm;10 mm;472 mm;10 mm;10 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+D;Agrupar#125;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+E;Agrupar#126;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+F;Agrupar#127;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+G;Agrupar#128;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+H;Agrupar#129;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+I;Agrupar#130;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+J;Agrupar#131;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+K;Agrupar#132;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+L;Agrupar#133;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+M;Agrupar#134;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+N;Agrupar#135;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+O;Agrupar#136;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+P;Agrupar#137;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+Q;Agrupar#138;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+R;Agrupar#139;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+S;Agrupar#140;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+T;Agrupar#141;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+U;Agrupar#142;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+V;Agrupar#143;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+W;Agrupar#144;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+X;Agrupar#145;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+Y;Agrupar#146;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+Z;Agrupar#147;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AA;Agrupar#148;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AB;Agrupar#149;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AC;Agrupar#150;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AD;Agrupar#151;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AE;Agrupar#152;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AF;Agrupar#153;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AG;Agrupar#154;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AH;Agrupar#155;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AI;Agrupar#157;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AJ;Agrupar#158;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AK;Agrupar#159;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AL;Agrupar#160;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AM;Agrupar#161;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AN;Agrupar#162;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AO;Agrupar#163;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AP;Agrupar#164;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AQ;Agrupar#165;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AR;Agrupar#166;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AS;Agrupar#167;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AT;Agrupar#168;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AU;Agrupar#169;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AV;Agrupar#170;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AW;Agrupar#171;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AX;Agrupar#172;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AY;Agrupar#173;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+AZ;Agrupar#174;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BA;Agrupar#175;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BB;Agrupar#176;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BC;Agrupar#177;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BD;Agrupar#178;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BE;Agrupar#179;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BF;Agrupar#180;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BG;Agrupar#181;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BH;Agrupar#182;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BI;Agrupar#183;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BJ;Agrupar#184;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BK;Agrupar#185;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
+BL;Agrupar#74;1;281 mm;10 mm;9 mm;281 mm;10 mm;9 mm;"";Indefinido;"";"";"";"";"";"";"";"";"";"";"";"";"";ESCURR TABLA 1 
